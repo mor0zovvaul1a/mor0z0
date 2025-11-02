@@ -1,0 +1,9 @@
+mini-project/
+├─ README.md
+├─ src/
+│  ├─ __init__.py
+│  ├─ utils.py
+│  └─ greeter.py
+├─ tests/
+│  └─ test_greeter.py
+└─ .gitignore
